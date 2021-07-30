@@ -2,10 +2,6 @@
 
 The purpose of this guide is to describe the creation of the CAMELS-CH dataset in order to facilitate its future updating.
 
-## Table of Contents
-
-{:toc}
-
 
 ## CAMELS_CH_topographic_attributes
 
