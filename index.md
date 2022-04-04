@@ -22,7 +22,7 @@ The purpose of this guide is to describe the creation of the CAMELS-CH dataset i
 **Attributes**: area, dpsbar, elev_mean, elev_min, elev_10, elev_50, elev_90, elev_max
 
 **Source data**:
-* Main data source: Catchemnt shapefiles provided by BAFU
+* Main data source: Catchement shapefiles provided by BAFU
 * Complemented with the EU-Hydro river network database (https://land.copernicus.eu/imagery-in-situ/eu-hydro)
 
 **Code used**: ...
